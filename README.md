@@ -7,3 +7,5 @@ These metrics and indices are used for “Quel Média”, a project aiming at en
 * **[mobile_metrics.ipynb](mobile_metrics.ipynb)** Checks PageSpeed score and page load time.
 
 * **[speed_metrics.ipynb](speed_metrics.ipynb)** Tests the mobile websites on an iPhone 8 over 4G with webpagetest tools.
+
+Feel free to reach me for any information: https://www.quel-media.com/about.html#contact
