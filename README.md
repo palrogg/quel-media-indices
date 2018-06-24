@@ -2,7 +2,7 @@
 
 These metrics and indices are used for “Quel Média”, a project aiming at enhancing digital front pages.
 
-* **[main_metrics.ipynb](main_metrics.ipynb)** Builds four indices about the kind of stories featured at the top of newspaper homepages.
+* **[main_metrics.ipynb](main_metrics.ipynb)** Builds four indices about the kind of stories featured at the top of newspaper homepages and two performance indices computed upon the two following notebooks.
 
 * **[mobile_metrics.ipynb](mobile_metrics.ipynb)** Checks PageSpeed score and page load time.
 
